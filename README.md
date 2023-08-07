@@ -13,17 +13,17 @@ while(alive){
 ```
 
 ## 🛠 Skills
-HTML5
-CSS3 (Tailwind)
-JavaScript ES6
-AJAX & jQuery
-Node.js
-PHP
-Git & GitHub
-MySQL
-MongoDB
-React
-EJS
+- HTML5
+- CSS3 (Tailwind)
+- JavaScript ES6
+- AJAX & jQuery
+- Node.js
+- PHP
+- Git & GitHub
+- MySQL
+- MongoDB
+- React
+- EJS
 
 
 ## 🔗 Links
