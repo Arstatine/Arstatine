@@ -7,7 +7,7 @@ Hi, I'm Xenon Vergara a front-end, back-end and full-stack developer with a stro
 
 [Xenon Vergara - Web Portfolio](https://arstatine.github.io)
 
-```
+```javascript
 
 while(alive){
     if(stressLevel >= 8){
