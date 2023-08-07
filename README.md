@@ -5,6 +5,4 @@ Hi, I'm Xenon Vergara a front-end, back-end and full-stack developer with a stro
 `LinkedIn: Xenon Vergara`
 `GitHub: Xenon Vergara`
 
-<br />
-
-[Xenon Vergara](https://arstatine.github.io)
+[Xenon Vergara - Web Portfolio](https://arstatine.github.io)
