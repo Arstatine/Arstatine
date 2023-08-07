@@ -6,3 +6,19 @@ Hi, I'm Xenon Vergara a front-end, back-end and full-stack developer with a stro
 `GitHub: Xenon Vergara`
 
 [Xenon Vergara - Web Portfolio](https://arstatine.github.io)
+
+```
+
+while(alive){
+    if(stressLevel >= 8){
+       takeBreak()
+       stressLevel.reset()
+       continue
+    }
+    
+    eat()
+    code()
+    debug()
+}
+
+```
