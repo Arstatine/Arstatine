@@ -9,7 +9,7 @@ Hi, I'm Xenon Vergara a front-end, back-end and full-stack developer with a stro
 
 ```
 
-$${\color{orange}Orange}$$while(alive){
+while(alive){
     if(stressLevel >= 8){
        takeBreak()
        stressLevel.reset()
