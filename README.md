@@ -31,8 +31,8 @@ while(alive){
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/xenon-vergara-8b66391b9/))
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Arstatinee)
 
-`Facebook`
+`Facebook` => 
 [Xenon Ramos Vergara](https://www.facebook.com/xenon.vergara.2201)
 <br/>
-`Instagram`
+`Instagram` => 
 [Xenon Ramos Vergara](https://www.instagram.com/arstatinee/)
