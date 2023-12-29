@@ -13,9 +13,9 @@ while(alive){
 ```
 
 ## 📊 GitHub Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arstatine&theme=dark&background=000000)]
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arstatine&theme=dark&background=000000)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arstatine&layout=compact&theme=vision-friendly-dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arstatine&layout=compact&theme=vision-friendly-dark)
 
 ## 🛠 Skills
 ![mongodb](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -24,7 +24,6 @@ while(alive){
 ![nodedotjs](https://img.shields.io/badge/node-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 <br/>
 ![jquery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![apache](https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![php](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 <br/>
