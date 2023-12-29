@@ -5,9 +5,10 @@ Hi, I'm Xenon Vergara a front-end, back-end and full-stack developer with a stro
 
 ```javascript
 while(alive){
-    eat()
-    code()
-    debug()
+    eat();
+    code();
+    debug();
+    sleep();
 }
 ```
 
@@ -29,7 +30,7 @@ while(alive){
 ![mongodb](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![ejs](https://img.shields.io/badge/ejs-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
-
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://arstatine.github.io)
