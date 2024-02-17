@@ -26,6 +26,8 @@ while(alive){
 ![jquery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![php](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![codeigniter](https://img.shields.io/badge/codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 <br/>
 ![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
